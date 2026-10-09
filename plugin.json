@@ -1,0 +1,11 @@
+{
+  "id": "wacom",
+  "name": "Wacom",
+  "version": "0.1.0",
+  "sdkVersion": "1.30.0",
+  "entryAssembly": "LoupixDeck.Plugin.Wacom.dll",
+  "platform": "All",
+  "author": "web-engineer",
+  "description": "Display Toggle and Precision Mode for Wacom tablets on Loupedeck keys (macOS only).",
+  "projectUrl": "https://github.com/web-engineer/wacom-loupdeck"
+}
