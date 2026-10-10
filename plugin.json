@@ -7,5 +7,5 @@
   "platform": "All",
   "author": "web-engineer",
   "description": "Display Toggle and Precision Mode for Wacom tablets on Loupedeck keys (macOS only).",
-  "projectUrl": "https://github.com/web-engineer/wacom-loupixdeck"
+  "projectUrl": "https://github.com/web-engineer/LoupixDeck.Plugin.Wacom"
 }
